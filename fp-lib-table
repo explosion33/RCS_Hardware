@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "USBC")(type "KiCad")(uri "${KIPRJMOD}/Components/USBC")(options "")(descr ""))
+  (lib (name "BMP280")(type "KiCad")(uri "${KIPRJMOD}/Components/BMP280")(options "")(descr ""))
 )
